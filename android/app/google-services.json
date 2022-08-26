@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557842858903",
+    "project_id": "first-project-54fe1",
+    "storage_bucket": "first-project-54fe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557842858903:android:7b0414e6e7fd05a36ebad2",
+        "android_client_info": {
+          "package_name": "com.example.betul_unal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557842858903-k578l1cv1tilbth6a72vke8a3vavupbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7eBMea-dtaSpWjoegI_NkUenz3VAQIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557842858903-k578l1cv1tilbth6a72vke8a3vavupbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
